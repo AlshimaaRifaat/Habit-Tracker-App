@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Habit_Tracker_app</string>
+    <string name="action_settings">Settings</string>
+    <string name="date">date</string>
+    <string name="dat">3-5-2017</string>
+    <string name="number_of_times">times_number</string>
+    <string name="store">store</string>
+    <string name="cancel">cancel</string>
+    <string name="insert_data">insert</string>
+    <string name="habit_name">name</string>
+    <string name="habit_start_date">begining date</string>
+    <string name="habit_date">date</string>
+    <string name="button_save">save</string>
+    <string name="button_cancel">cancel</string>
+    <string name="habit_number_of_times">number_of_times</string>
+    <string name="name">Habit is</string>
+</resources>
